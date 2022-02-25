@@ -17,3 +17,4 @@
 16. [Bear and Big Brother 791A](https://codeforces.com/problemset/problem/791/A)
 17. [Football 96A](https://codeforces.com/problemset/problem/96/A)
 18. [Three Swimmers 1492A](https://codeforces.com/problemset/problem/1492/A)
+19. [Elephant 617A](https://codeforces.com/problemset/problem/617/A)

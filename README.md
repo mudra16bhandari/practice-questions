@@ -1,5 +1,5 @@
 ### From CodeForces
-####Div A
+#### A
 1. [Watermelon 4A](https://codeforces.com/contest/4/problem/A)
 2. [Way too Long Words 71A](https://codeforces.com/contest/71/problem/A)
 3. [Theatre Square 1A](https://codeforces.com/contest/1/problem/A)
@@ -23,5 +23,5 @@
 21. [Wrong Subtraction 977A](https://codeforces.com/problemset/problem/977/A)
 22. [Tram 116A](https://codeforces.com/problemset/problem/116/A)
 
-####Div B
+#### B
 1. [Queue at the School 266B](https://codeforces.com/problemset/problem/266/B)

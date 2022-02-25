@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bf02b0-ba2e-43e6-bb39-0299a4c399aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/WrongSubtraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -45,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Word">
+  <component name="RunManager" selected="Application.WrongSubtraction">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -53,19 +53,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BearAndBigBrother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeForces.BearAndBigBrother" />
-      <module name="Questions that I solve" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeForces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrongSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.WrongSubtraction" />
+      <module name="practice-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeForces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrongSubtraction" />
         <item itemvalue="Application.Word" />
         <item itemvalue="Application.Elephant" />
         <item itemvalue="Application.ThreeSwimmers" />
         <item itemvalue="Application.Football" />
-        <item itemvalue="Application.BearAndBigBrother" />
       </list>
     </recent_temporary>
   </component>

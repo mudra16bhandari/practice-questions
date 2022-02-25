@@ -19,3 +19,4 @@
 18. [Three Swimmers 1492A](https://codeforces.com/problemset/problem/1492/A)
 19. [Elephant 617A](https://codeforces.com/problemset/problem/617/A)
 20. [Word 59A](https://codeforces.com/problemset/problem/59/A)
+21. [Wrong Subtraction 977A](https://codeforces.com/problemset/problem/977/A)

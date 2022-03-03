@@ -24,6 +24,7 @@
 22. [Tram 116A](https://codeforces.com/problemset/problem/116/A)
 23. [Nearly Lucky Number 110A](https://codeforces.com/problemset/problem/110/A)
 24. [Translation 41A](https://codeforces.com/problemset/problem/41/A)
+25. [Anton and Danik 734A](https://codeforces.com/problemset/problem/734/A)
 
 #### B
 1. [Queue at the School 266B](https://codeforces.com/problemset/problem/266/B)

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bf02b0-ba2e-43e6-bb39-0299a4c399aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/QueueAtTheSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/NearlyLuckyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.QueueAtTheSchool">
+  <component name="RunManager" selected="Application.NearlyLuckyNumber">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -57,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Elephant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeForces.Elephant" />
+    <configuration name="NearlyLuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.NearlyLuckyNumber" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NearlyLuckyNumber" />
         <item itemvalue="Application.QueueAtTheSchool" />
         <item itemvalue="Application.Tram" />
         <item itemvalue="Application.WrongSubtraction" />
         <item itemvalue="Application.Word" />
-        <item itemvalue="Application.Elephant" />
       </list>
     </recent_temporary>
   </component>
